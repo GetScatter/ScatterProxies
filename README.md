@@ -3,7 +3,7 @@ A repository of proxies for use within Scatter
 
 ## Adding new proxies
 
-- Create a pull request adding your explorer to the correct blockchain in the "explorers.json" file. 
+- Create a pull request adding your proxy to the correct blockchain in the "proxies.json" file. 
 - **Fill out all of the fields, they are all required.**
 
 ```
