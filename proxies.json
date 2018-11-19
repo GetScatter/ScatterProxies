@@ -1,3 +1,10 @@
 {
-  "EOSIO":[]
+  "EOSIO":[
+    {
+      "name":"Luke Stokes",
+      "description":"I vote for BPs who provide value to the EOS ecosystem through innovation, education, and helping the world advance forward.",
+      "values":["Builders", "Education", "Value"],
+      "account":"lukeeosproxy"
+    }
+  ]
 }
