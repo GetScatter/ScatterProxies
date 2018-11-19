@@ -10,7 +10,6 @@ A repository of proxies for use within Scatter
 {
   "name":"",            // The name of your proxy, this should be Title Case
   "description":"",     // A short ( 250 chars ) description of your proxy
-  "values":[""],        // An array of up to 5 of your values/beliefs
   "account":""         // The account to be proxied to
 }
 ```
@@ -21,7 +20,6 @@ A repository of proxies for use within Scatter
 {
   "name":"Scatter Proxy",
   "description":"Cat on cat humor.",
-  "values":["Fruit", "Basket"],
   "account":"scatterproxy"
 }
 ```
