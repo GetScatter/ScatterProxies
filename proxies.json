@@ -5,6 +5,11 @@
       "description":"I vote for BPs who provide value to the EOS ecosystem through innovation, education, and helping the world advance forward.",
       "account":"lukeeosproxy"
     },
+   {
+      "name":"Ferdous Bhai's proxy",
+      "description":"Voting criteria: 1) Non-interventionist approach to base-layer governance, 2) Technical competency, 3) Bare metal rigs",
+      "account":"ferdousbhai1"
+    }, 
     {
       "name":"Sole One",
       "description":"Voting for BPs that strengthen the community by actually building tools or engaging in governance or education. Avoid anonymous whale, but not all whales are necessarily bad, it depends. Life is complicated. Both Cloud and Bare Metal is fine, diversity in BP architecture is important.",
