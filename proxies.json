@@ -9,6 +9,11 @@
       "name":"Sole One",
       "description":"Voting for BPs that strengthen the community by actually building tools or engaging in governance or education. Avoid anonymous whale, but not all whales are necessarily bad, it depends. Life is complicated. Both Cloud and Bare Metal is fine, diversity in BP architecture is important.",
       "account":"soleoneoneos"
+    },
+    {
+      "name":"Democracy Tech",
+      "description":"Blockchain networks like EOS make trust in political and third-party intermediation unnecessary. We now have the opportunity to create the environment and code in EOS that will facilitate the achievement of Individual Sovereignty for all people of the world. Vote for the 30 Block producers that best pursue this goal.",
+      "account":"democracytech"
     }
   ]
 }
