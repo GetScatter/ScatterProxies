@@ -9,6 +9,11 @@
       "name":"Sole One",
       "description":"Voting for BPs that strengthen the community by actually building tools or engaging in governance or education. Avoid anonymous whale, but not all whales are necessarily bad, it depends. Life is complicated. Both Cloud and Bare Metal is fine, diversity in BP architecture is important.",
       "account":"soleoneoneos"
+    },
+     {
+      "name":"EOSVibes",
+      "description":"We will be selecting and voting for BPs from within the top 150. We wish to take this approach in order to try and expand the number of back up block producers.",
+      "account":"eosvibesvote"
     }
   ]
 }
