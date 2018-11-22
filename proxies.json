@@ -1,6 +1,11 @@
 {
   "EOSIO":[
     {
+      "name":"Ferdous Bhai's proxy",
+      "description":"Voting criteria: 1) Non-interventionist approach to base-layer governance, 2) Technical competency, 3) Bare metal rigs",
+      "account":"ferdousbhai1"
+    }, 
+    {
       "name":"Luke Stokes",
       "description":"I vote for BPs who provide value to the EOS ecosystem through innovation, education, and helping the world advance forward.",
       "account":"lukeeosproxy"
