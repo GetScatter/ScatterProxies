@@ -29,6 +29,11 @@
       "name":"Good Guys 4 EOS Proxy",
       "description":"We vote for BPs who (1) have received below 1% of total network votes, (2) adhere to the {{ regproducer }} agreement, (3) adhere to the Constitution and (4) actively participate in the EOS community.",
       "account":"goodguys4eos"
+    },
+    {
+      "name":"EOSWATCHDOGS",
+      "description":"TOP 30 HARDEST WORKING BLOCK PRODUCERS -Join our community https://t.me/eoswatchdogs and help keep our network safe. Our priority is you!",
+      "account":"eoswatchdogs"
     }
   ]
 }
