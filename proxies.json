@@ -1,39 +1,10 @@
 {
   "EOSIO":[
-    {
-      "name":"Ferdous Bhai's proxy",
-      "description":"Voting criteria: 1) Non-interventionist approach to base-layer governance, 2) Technical competency, 3) Bare metal rigs",
-      "account":"ferdousbhai1"
-    }, 
-    {
-      "name":"Luke Stokes",
-      "description":"I vote for BPs who provide value to the EOS ecosystem through innovation, education, and helping the world advance forward.",
-      "account":"lukeeosproxy"
-    },
-    {
-      "name":"TIMM (Mentor Market)",
-      "description":"Pursuing integrity, strong community and real added value.",
-      "account":"mentormarket"
-    },
-    {
-      "name":"Sole One",
-      "description":"Voting for BPs that strengthen the community by actually building tools or engaging in governance or education. Avoid anonymous whale, but not all whales are necessarily bad, it depends. Life is complicated. Both Cloud and Bare Metal is fine, diversity in BP architecture is important.",
-      "account":"soleoneoneos"
-    },
-    {
-      "name":"Democracy Tech",
-      "description":"Blockchains like EOS make trust in political and third-party intermediation unnecessary. This is our opportunity to write the code that will facilitate individual sovereignty for all people. Vote for the 30 Block producers that best pursue this goal.",
-      "account":"democracytech"
-     },
+
      {
       "name":"EOS Cats Proxy",
       "description":"Hi : ) I'm Francesco Gatti, If you don’t have time to study hours every day about the latest BPs geo-distribution and behavior, I will do the research for you and closely guard the technological safety and decentralization of the network. I value BPs with transparent accountability that engages with the community to better evolve the ecosystem.",
       "account":"eoscatsproxy"
-     }, 
-     {
-      "name":"Good Guys 4 EOS Proxy",
-      "description":"We vote for BPs who (1) have received below 1% of total network votes, (2) adhere to the {{ regproducer }} agreement, (3) adhere to the Constitution and (4) actively participate in the EOS community.",
-      "account":"goodguys4eos"
-    }
+     }
   ]
 }
