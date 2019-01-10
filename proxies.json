@@ -21,6 +21,11 @@
       "account":"soleoneoneos"
     },
      {
+      "name":"EOSVibes",
+      "description":"Technical Proficiency, Community Engagement, Geographical Location/Jurisdiction, Independence Building Tools/Dapps for the Community, Education, Uniqueness. We will be selecting and voting for BPs from within the top 150. We wish to take this approach in order to try and expand the number of back up block producers.",
+      "account":"eosvibesvote"
+    },
+    {
       "name":"Good Guys 4 EOS Proxy",
       "description":"We vote for BPs who (1) have received below 1% of total network votes, (2) adhere to the {{ regproducer }} agreement, (3) adhere to the Constitution and (4) actively participate in the EOS community.",
       "account":"goodguys4eos"
