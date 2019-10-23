@@ -44,6 +44,11 @@
       "name":"EOS Cats Proxy",
       "description":"Hi : ) I'm Francesco Gatti, If you don’t have time to study hours every day about the latest BPs geo-distribution and behavior, I will do the research for you and closely guard the technological safety and decentralization of the network. I value BPs with transparent accountability that engages with the community to better evolve the ecosystem.",
       "account":"eoscatsproxy"
-     }
+     },
+    {
+        "name":"Starteos Proxy",
+        "description":"Hi : ) I'm Francesco Gatti, If you don’t have time to study hours every day about the latest BPs geo-distribution and behavior, I will do the research for you and closely guard the technological safety and decentralization of the network. I value BPs with transparent accountability that engages with the community to better evolve the ecosystem.",
+        "account":"voteproxy133"
+    }
   ]
 }
