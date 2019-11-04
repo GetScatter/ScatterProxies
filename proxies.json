@@ -1,5 +1,50 @@
 {
   "EOSIO":[
+      {
+          "name":"Ferdous Bhai's proxy",
+          "description":"Voting criteria: 1) Non-interventionist approach to base-layer governance, 2) Technical competency, 3) Bare metal rigs",
+          "account":"ferdousbhai1"
+      },
+      {
+          "name":"Luke Stokes",
+          "description":"I vote for BPs who provide value to the EOS ecosystem through innovation, education, and helping the world advance forward.",
+          "account":"lukeeosproxy"
+      },
+      {
+          "name":"Colin Talks Crypto",
+          "description":"Colin Talks Crypto is a cryptocurrency-focused YouTube channel. As an EOS proxy, I will do what's best for EOS holders and the EOS ecosystem.",
+          "account":"colintcrypto"
+      },
+      {
+          "name":"TIMM (Mentor Market)",
+          "description":"Pursuing integrity, strong community and real added value.",
+          "account":"mentormarket"
+      },
+      {
+          "name":"Sole One",
+          "description":"Voting for BPs that strengthen the community by actually building tools or engaging in governance or education. Avoid anonymous whale, but not all whales are necessarily bad, it depends. Life is complicated. Both Cloud and Bare Metal is fine, diversity in BP architecture is important.",
+          "account":"soleoneoneos"
+      },
+      {
+          "name":"EOSVibes",
+          "description":"Technical Proficiency, Community Engagement, Geographical Location/Jurisdiction, Independence Building Tools/Dapps for the Community, Education, Uniqueness. We will be selecting and voting for BPs from within the top 150. We wish to take this approach in order to try and expand the number of back up block producers.",
+          "account":"eosvibesvote"
+      },
+      {
+          "name":"Good Guys 4 EOS Proxy",
+          "description":"We vote for BPs who (1) have received below 1% of total network votes, (2) adhere to the {{ regproducer }} agreement, (3) adhere to the Constitution and (4) actively participate in the EOS community.",
+          "account":"goodguys4eos"
+      },
+      {
+          "name":"EOSWATCHDOGS",
+          "description":"TOP 30 HARDEST WORKING BLOCK PRODUCERS -Join our community and help keep our network safe. Our priority is you!",
+          "account":"eoswatchdogs"
+      },
+      {
+          "name":"EOS Cats Proxy",
+          "description":"Hi : ) I'm Francesco Gatti, If you don’t have time to study hours every day about the latest BPs geo-distribution and behavior, I will do the research for you and closely guard the technological safety and decentralization of the network. I value BPs with transparent accountability that engages with the community to better evolve the ecosystem.",
+          "account":"eoscatsproxy"
+      },
     {
       "name":"Starteosproxy",
       "description":"Starteos is committed to innovative ideas and products, and promote sustainable development of EOS community.\nWelcome to vote for Starteos proxy, and obtain the highest yeild of the whole network",
