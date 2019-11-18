@@ -11,6 +11,16 @@
           "account":"lukeeosproxy"
       },
       {
+          "name":"Charity Proxy",
+          "description":"We aim to help technically competent BPs who are out there helping, make EOS the best platform and the world a better place.",
+          "account":"charityproxy"
+      },    
+      {
+          "name":"Colin Talks Crypto Rewards Proxy",
+          "description":"Doing what's best for EOS holders and the EOS ecosystem, while giving back to voters.",
+          "account":"colinrewards"
+      },
+      {
           "name":"Colin Talks Crypto",
           "description":"Colin Talks Crypto is a cryptocurrency-focused YouTube channel. As an EOS proxy, I will do what's best for EOS holders and the EOS ecosystem.",
           "account":"colintcrypto"
